@@ -22,6 +22,7 @@ It is essential to verify that the data is clean, consistent, and ready for furt
 - Identify missing values, duplicate values, and inconsistent formats
 - Handle missing values, duplicate values, and inconsistent formats
 After cleaning and ensuring data is cleaned, data modeling was done after dimension tables were created from the initial supply chain table.
+
 ![data modelling](data_modelling_SCM.PNG) 
 
 After cleaning Data modeling was done after the dimension table was created from the initial table
