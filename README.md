@@ -25,8 +25,7 @@ After cleaning and ensuring data is cleaned, data modeling was done after dimens
 
 ![data modelling](data_modelling_SCM.PNG) 
 
-After cleaning Data modeling was done after the dimension table was created from the initial table
-![Data modeling](
+
 
 
 
