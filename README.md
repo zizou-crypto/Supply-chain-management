@@ -25,6 +25,12 @@ After cleaning and ensuring data is cleaned, data modeling was done after dimens
 
 ![data modelling](data_modelling_SCM.PNG) 
 
+## Metrics 
+- The total production from the supply chain management was 57,000 with a 2.28% increase driven by reduced defects.
+- the total product sold was 46,000 units with a 2.28% increase driven by reduced defects.
+- the total lead time was 1477 with a 2.28% increase driven by reduced defects.
+- 
+
 
 
 
