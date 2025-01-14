@@ -23,6 +23,9 @@ It is essential to verify that the data is clean, consistent, and ready for furt
 - Handle missing values, duplicate values, and inconsistent formats
 After cleaning and ensuring data is cleaned, data modeling was done after dimension tables were created from the initial supply chain table.
 
+The dashboard also has a home icon and navigation icon to move other part of the dashboard that were visualized. clicking on the navigation bar will pop out the dashboard names to navigate easily as shown below. 
+![navigation](supply chain.PNG)
+
 ![data modelling](data_modelling_SCM.PNG) 
 
 ## Metrics 
@@ -63,7 +66,7 @@ Defect rates, manufacturing lead times, and stock levels by SKU.
 Key Insights:
 - Supplier 1 has the highest defect rate (25), followed closely by Supplier 5.
 - Kolkata has the highest order quantities (644), while Delhi has the lowest (257).
-![DASHBOARD](overview_DB.PNG) ![DASHBOARD](supplier_insights.PNG) 
+![DASHBOARD](overview_DB.PNG) ![DASHBOARD](supplier_insights.PNG) ![dashboard](route.PNG) ![DASHBOARD](stock.PNG)
 ## Recommendations
 - Focus on optimizing sea routes to improve order fulfillment efficiency.
 - Investigate the high revenue contribution from the "unknown" gender category for better marketing segmentation.
