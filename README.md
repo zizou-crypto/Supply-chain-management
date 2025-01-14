@@ -34,7 +34,7 @@ The dashboard also has a home icon and navigation icon to move other part of the
 - the total lead time was 1477 with a 2.28% increase driven by reduced defects.
 
 New measures for some metrics were created as well for the percentage, total production, and product sold as well. Parameter were as well created for easy interaction. 
-
+![db](Capture_1.PNG) ![db](Capture_2.PNG) ![db](Capture_3.PNG) 
 ## Analysis
 
 ### Overview Dashboard
