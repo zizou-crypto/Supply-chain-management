@@ -24,7 +24,7 @@ It is essential to verify that the data is clean, consistent, and ready for furt
 After cleaning and ensuring data is cleaned, data modeling was done after dimension tables were created from the initial supply chain table.
 
 The dashboard also has a home icon and navigation icon to move other part of the dashboard that were visualized. clicking on the navigation bar will pop out the dashboard names to navigate easily as shown below. 
-![navigation](supply chain.PNG)
+![navigation](supply_chain.PNG)
 
 ![data modelling](data_modelling_SCM.PNG) 
 
@@ -32,6 +32,9 @@ The dashboard also has a home icon and navigation icon to move other part of the
 - The total production from the supply chain management was 57,000 with a 2.28% increase driven by reduced defects.
 - the total product sold was 46,000 units with a 2.28% increase driven by reduced defects.
 - the total lead time was 1477 with a 2.28% increase driven by reduced defects.
+
+New measures for some metrics were created as well for the percentage, total production, and product sold as well. Parameter were as well created for easy interaction. 
+
 ## Analysis
 
 ### Overview Dashboard
